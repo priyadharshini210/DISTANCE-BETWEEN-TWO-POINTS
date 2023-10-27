@@ -29,7 +29,7 @@ print("{:0.2f}".format(distance))
 
 
 ### OUTPUT:
-![OUTPUT](image.png)
+![OUTPUT](<Screenshot 2023-10-27 155417.png>)
 
 
 ### RESULT:
